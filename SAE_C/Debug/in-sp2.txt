@@ -1,0 +1,151 @@
+consultation
+inscription OP Axione
+consultation
+inscription OP SYBORD
+consultation
+inscription IN Brunet
+mission 2 client1 12.705517
+inscription IN SERTELCOM
+inscription AG CGTI
+inscription IN EERT
+detail 1
+consultation
+detail 1
+consultation
+mission 1 client2 17.520947
+consultation
+detail 1
+detail 2
+inscription IN SNEF
+inscription OP Orange
+inscription IN Deltacom
+inscription IN AFFA.COM
+inscription IN ALP'COM
+mission 8 client3 14.612892
+consultation
+mission 1 client4 16.588707
+detail 1
+mission 8 client5 15.564113
+detail 4
+detail 2
+consultation
+mission 8 client6 5.645428
+inscription IN CITEL
+consultation
+inscription OP AUBACOM
+detail 5
+acceptation 5 1
+detail 4
+mission 2 client7 12.591003
+inscription IN Vialis
+mission 13 client8 15.972942
+acceptation 11 3
+mission 2 client9 5.964642
+detail 6
+detail 5
+rapport 1 1
+detail 2
+inscription OP CIRCET
+detail 9
+consultation
+rapport 3 2
+inscription OP RESTECH
+acceptation 4 8
+rapport 8 2
+detail 5
+acceptation 9 9
+detail 6
+mission 2 client13 14.312955
+mission 8 client14 16.254726
+inscription IN SATCOMS
+detail 6
+rapport 9 1
+acceptation 11 7
+consultation
+mission 1 client16 5.516429
+mission 2 client17 8.594071
+rapport 7 0
+inscription IN Sogetrel
+acceptation 11 14
+acceptation 11 5
+detail 4
+rapport 5 1
+mission 13 client19 9.560194
+detail 2
+detail 16
+detail 11
+detail 2
+consultation
+acceptation 12 18
+inscription IN Amphitec
+rapport 18 1
+mission 15 client21 17.074406
+rapport 14 2
+consultation
+acceptation 3 4
+acceptation 10 17
+rapport 17 2
+rapport 4 1
+consultation
+inscription IN Eurocom
+detail 21
+consultation
+detail 20
+acceptation 11 22
+mission 1 client25 15.123132
+detail 6
+detail 12
+mission 15 client26 10.397375
+mission 13 client27 13.116923
+detail 21
+acceptation 6 24
+consultation
+mission 16 client28 15.373967
+acceptation 10 26
+consultation
+detail 25
+mission 13 client29 14.287289
+acceptation 19 19
+inscription IN SIMTEL
+consultation
+inscription AG STT
+acceptation 3 6
+rapport 22 0
+consultation
+inscription IN Entela
+detail 11
+acceptation 10 28
+detail 21
+inscription OP RESEAUTEL
+mission 16 client30 15.020726
+acceptation 18 2
+inscription OP SCOB
+inscription IN Free
+inscription IN Decima
+rapport 28 0
+rapport 2 1
+acceptation 5 11
+acceptation 14 15
+rapport 19 1
+detail 29
+inscription IN PROFIBR'
+mission 8 client33 14.916783
+inscription IN MLK-CONNECT
+inscription OP ALLCOMS
+inscription AG Fortel
+acceptation 28 13
+rapport 24 2
+inscription IN SFR
+detail 30
+inscription OP ALCETIS
+acceptation 20 12
+rapport 11 1
+acceptation 20 29
+consultation
+mission 33 client36 10.56078
+consultation
+mission 30 client37 10.310926
+rapport 15 0
+acceptation 17 32
+acceptation 18 36
+exit

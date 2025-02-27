@@ -1,0 +1,176 @@
+consultation
+inscription OP Sogetrel
+consultation
+inscription OP Axione
+inscription OP SNEF
+inscription IN SCOB
+mission 3 client1 10.344736
+acceptation 4 1
+inscription OP INEO
+recapitulatif 3
+inscription IN PROFIBR'
+mission 3 client2 8.975088
+acceptation 4 2
+rapport 1 2
+mission 5 client4 10.432333
+recapitulatif 5
+mission 5 client5 9.941227
+inscription IN AUBACOM
+inscription IN Amphitec
+detail 4
+recapitulatif 3
+recapitulatif 3
+mission 5 client6 7.042937
+rapport 2 0
+detail 4
+recapitulatif 3
+consultation
+detail 5
+recapitulatif 5
+acceptation 8 5
+acceptation 6 3
+mission 3 client7 17.72906
+rapport 3 2
+acceptation 8 7
+recapitulatif 8
+detail 8
+recapitulatif 3
+rapport 7 0
+rapport 5 1
+detail 6
+inscription OP Deltacom
+inscription IN Sobeca
+inscription OP Decima
+acceptation 7 8
+mission 5 client10 11.691923
+rapport 8 0
+inscription IN ITAC
+detail 9
+inscription OP MARLINK
+consultation
+mission 3 client11 17.446394
+recapitulatif 4
+detail 6
+consultation
+mission 5 client12 7.9269743
+inscription IN ALLCOMS
+acceptation 6 10
+acceptation 10 11
+detail 9
+mission 5 client13 17.389599
+inscription IN Fortel
+detail 12
+acceptation 14 4
+rapport 11 2
+rapport 4 1
+consultation
+acceptation 7 12
+recapitulatif 6
+mission 1 client16 6.2547207
+acceptation 7 9
+detail 6
+consultation
+rapport 9 0
+mission 13 client17 10.181283
+rapport 10 0
+detail 17
+rapport 12 1
+recapitulatif 6
+acceptation 6 17
+detail 13
+inscription IN RESTECH
+mission 1 client19 16.939701
+acceptation 15 6
+consultation
+inscription OP SIMTEL
+acceptation 7 19
+rapport 6 2
+mission 3 client21 14.007176
+mission 17 client22 7.7270975
+mission 13 client23 10.629156
+inscription AG ALCETIS
+mission 5 client24 8.26404
+detail 13
+rapport 19 1
+mission 13 client26 5.3796506
+inscription IN DALIANA
+recapitulatif 4
+recapitulatif 4
+rapport 17 1
+acceptation 12 20
+inscription IN SFR
+detail 13
+rapport 20 1
+detail 26
+detail 23
+recapitulatif 5
+mission 17 client29 15.0472765
+consultation
+mission 5 client30 6.646164
+consultation
+detail 29
+recapitulatif 13
+mission 17 client31 13.029125
+consultation
+mission 9 client32 15.903155
+acceptation 7 23
+rapport 23 0
+detail 26
+mission 17 client33 9.85224
+mission 1 client34 12.498201
+detail 18
+mission 11 client35 14.111257
+detail 15
+detail 26
+mission 2 client36 18.717049
+detail 26
+recapitulatif 9
+recapitulatif 8
+consultation
+recapitulatif 5
+acceptation 12 29
+recapitulatif 13
+detail 31
+consultation
+acceptation 20 15
+mission 1 client37 19.616009
+mission 9 client38 14.443657
+acceptation 8 16
+recapitulatif 15
+acceptation 4 31
+recapitulatif 10
+detail 36
+inscription OP MLK-CONNECT
+acceptation 15 34
+consultation
+detail 26
+detail 18
+detail 24
+acceptation 4 27
+mission 3 client39 12.788097
+consultation
+inscription IN BLUE-INFRA
+inscription OP AFFA.COM
+consultation
+mission 3 client40 16.821106
+rapport 34 2
+detail 18
+recapitulatif 15
+recapitulatif 3
+acceptation 12 33
+mission 17 client42 12.430234
+detail 28
+acceptation 19 13
+rapport 15 0
+rapport 29 1
+recapitulatif 14
+acceptation 20 22
+consultation
+rapport 31 1
+inscription OP Foliateam
+consultation
+detail 26
+inscription AG Orange
+recapitulatif 12
+consultation
+exit

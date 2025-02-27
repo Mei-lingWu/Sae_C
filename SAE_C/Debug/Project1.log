@@ -1,0 +1,14 @@
+﻿  Source.c
+C:\Users\WuMei\OneDrive\Bureau\Yop\Ecole\IAD\SAE_C\Source.c(148,20): warning C4133: 'fonction' : types incompatibles - de 'int *' à 'const char *'
+C:\Users\WuMei\OneDrive\Bureau\Yop\Ecole\IAD\SAE_C\Source.c(148,81): warning C4133: 'fonction' : types incompatibles - de 'unsigned int *' à 'const char *'
+C:\Users\WuMei\OneDrive\Bureau\Yop\Ecole\IAD\SAE_C\Source.c(213,40): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\WuMei\OneDrive\Bureau\Yop\Ecole\IAD\SAE_C\Source.c(372,52): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\WuMei\OneDrive\Bureau\Yop\Ecole\IAD\SAE_C\Source.c(398,52): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\WuMei\OneDrive\Bureau\Yop\Ecole\IAD\SAE_C\Source.c(445,52): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\WuMei\OneDrive\Bureau\Yop\Ecole\IAD\SAE_C\Source.c(491,52): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\WuMei\OneDrive\Bureau\Yop\Ecole\IAD\SAE_C\Source.c(596,36): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\WuMei\OneDrive\Bureau\Yop\Ecole\IAD\SAE_C\Source.c(602,36): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\WuMei\OneDrive\Bureau\Yop\Ecole\IAD\SAE_C\Source.c(608,36): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\WuMei\OneDrive\Bureau\Yop\Ecole\IAD\SAE_C\Source.c(615,36): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\WuMei\OneDrive\Bureau\Yop\Ecole\IAD\SAE_C\Source.c(621,36): warning C4018: '<' : incompatibilité signed/unsigned
+  Project1.vcxproj -> C:\Users\WuMei\OneDrive\Bureau\Yop\Ecole\IAD\SAE_C\Debug\Project1.exe
